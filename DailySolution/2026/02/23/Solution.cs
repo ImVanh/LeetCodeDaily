@@ -1,3 +1,4 @@
+namespace LeetCodeDaily.Solution2026;
 public class Solution {
     public bool HasAllCodes(string s, int k) {
         // Produce all possible binary codes of length k using backtracking
