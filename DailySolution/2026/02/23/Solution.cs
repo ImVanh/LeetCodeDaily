@@ -22,3 +22,15 @@ public class Solution {
         Backtrack(n, path + "1", result);
     }
 }
+
+// Failed Solution
+// Need Improve performance.
+// Using Math.Pow(2, k) to calculate the total number of binary codes of length k, and then check if the number of unique substrings of length k in s is equal to that total. This approach is more efficient than generating all possible codes and checking for their presence in s.
+// public bool HasAllCodes(string s, int k) {
+//     int totalCodes = (int)Math.Pow(2, k);
+//     HashSet<string> uniqueSubstrings = new HashSet<string>();
+//     for (int i = 0; i <= s.Length - k; i++) {
+//         uniqueSubstrings.Add(s.Substring(i, k));
+//     }
+//     return uniqueSubstrings.Count == totalCodes;
+// }
