@@ -12,3 +12,4 @@
 /Users/gnctt/Documents/Github/LeetCodeDaily/obj/Debug/net8.0/DailySolution.pdb
 /Users/gnctt/Documents/Github/LeetCodeDaily/obj/Debug/net8.0/DailySolution.genruntimeconfig.cache
 /Users/gnctt/Documents/Github/LeetCodeDaily/obj/Debug/net8.0/ref/DailySolution.dll
+/Users/gnctt/Documents/Github/LeetCodeDaily/obj/Debug/net8.0/DailySolution.sourcelink.json

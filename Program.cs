@@ -1,4 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
+using LeetCodeDaily.Solution2026;
 public class Program {
     public static void Main(string[] args) {
         Solution solution = new Solution();
