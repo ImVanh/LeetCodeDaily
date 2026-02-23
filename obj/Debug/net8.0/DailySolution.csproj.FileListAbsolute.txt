@@ -1,0 +1,14 @@
+/Users/gnctt/Documents/Github/LeetCodeDaily/obj/Debug/net8.0/DailySolution.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gnctt/Documents/Github/LeetCodeDaily/obj/Debug/net8.0/DailySolution.AssemblyInfoInputs.cache
+/Users/gnctt/Documents/Github/LeetCodeDaily/obj/Debug/net8.0/DailySolution.AssemblyInfo.cs
+/Users/gnctt/Documents/Github/LeetCodeDaily/obj/Debug/net8.0/DailySolution.csproj.CoreCompileInputs.cache
+/Users/gnctt/Documents/Github/LeetCodeDaily/bin/Debug/net8.0/DailySolution
+/Users/gnctt/Documents/Github/LeetCodeDaily/bin/Debug/net8.0/DailySolution.deps.json
+/Users/gnctt/Documents/Github/LeetCodeDaily/bin/Debug/net8.0/DailySolution.runtimeconfig.json
+/Users/gnctt/Documents/Github/LeetCodeDaily/bin/Debug/net8.0/DailySolution.dll
+/Users/gnctt/Documents/Github/LeetCodeDaily/bin/Debug/net8.0/DailySolution.pdb
+/Users/gnctt/Documents/Github/LeetCodeDaily/obj/Debug/net8.0/DailySolution.dll
+/Users/gnctt/Documents/Github/LeetCodeDaily/obj/Debug/net8.0/refint/DailySolution.dll
+/Users/gnctt/Documents/Github/LeetCodeDaily/obj/Debug/net8.0/DailySolution.pdb
+/Users/gnctt/Documents/Github/LeetCodeDaily/obj/Debug/net8.0/DailySolution.genruntimeconfig.cache
+/Users/gnctt/Documents/Github/LeetCodeDaily/obj/Debug/net8.0/ref/DailySolution.dll
