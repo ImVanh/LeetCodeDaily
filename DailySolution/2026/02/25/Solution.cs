@@ -19,7 +19,7 @@ public class Solution {
     private int CountBitOne(int n) {
         int res = 0;
         while (n > 0) {
-            if (n % 2 == 1) res++;
+            res += n % 2;
             n = n / 2;
         }
         return res;    
