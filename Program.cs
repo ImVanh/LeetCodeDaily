@@ -1,13 +1,9 @@
 ﻿// See https://aka.ms/new-console-template for more information
-using LeetCodeDaily20260327;
+using LeetCodeDaily20260420;
 public class Program {
     public static void Main(string[] args) {
         Solution solution = new Solution();
-        bool result = solution.AreSimilar(new int[][] {
-            new int[] { 1, 2, 3 },
-            new int[] { 4, 5, 6 },
-            new int[] { 7, 8, 9 }
-        }, 2);
-        Console.WriteLine(result); // Output: True
+        int result = solution.MaxDistance(new int[] { 1,1,1,6,1,1,1 });
+        Console.WriteLine(result); // Output: 3
    }
 }
